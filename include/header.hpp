@@ -15,7 +15,7 @@ using namespace std;
 class Json {
 public:
 
-Json(const std::string& s): str(s)
+Json(const std::string& s)
 
 bool is_array() const
 
